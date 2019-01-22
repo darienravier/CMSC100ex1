@@ -1,0 +1,14 @@
+
+.header {
+	background-color: #41E89E;
+}
+
+body {
+	background-color: #47BAFF;
+}
+
+#image {
+	height: auto;
+	width: 10vw;
+	margin-top: 2vh
+}
